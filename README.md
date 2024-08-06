@@ -1,8 +1,8 @@
-<h3 align="center">Access the website: https://bn-live-docs.vercel.app</h3>
+<h1 align="center">Access the website: https://bn-live-docs.vercel.app</h1>
 
 # Introduction
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Google Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Developed with Next.js for the user interface, Liveblocks for real-time features, and styled using TailwindCSS, LiveDocs is a Google Docs clone. Its main objective is to showcase the developer's expertise in creating impactful real-time environments.
 
 # 🖥️ Tech Stack
 
@@ -35,9 +35,17 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 
 and many more, including code architecture and reusability
 
+ # Screenshots
+<img width="1438" alt="Screenshot 2024-08-06 at 2 11 09 PM" src="https://github.com/user-attachments/assets/a18bc2df-9314-4502-ad15-2774a902f492">
+
+<img width="1107" alt="Screenshot 2024-08-06 at 2 11 46 PM" src="https://github.com/user-attachments/assets/d0e039c9-352b-4aba-ad6b-c333ecd3a7fc">
+
+<img width="1440" alt="Screenshot 2024-08-06 at 2 12 34 PM" src="https://github.com/user-attachments/assets/7d3aff3e-e573-4c01-abc2-cff28c22f4cf">
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). -->
+
+<h1 align="center">Running Code Locally/Other Information</h1>
 
 ## Getting Started
 
